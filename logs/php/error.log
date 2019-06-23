@@ -47,3 +47,22 @@ Stack trace:
 #3 /app/public/index.php(17): require('/app/public/wp-...')
 #4 {main}
   thrown in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 30
+[23-Jun-2019 16:40:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Query::set(), 0 passed in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 21 and exactly 2 expected in /app/public/wp-includes/class-wp-query.php:1706
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/functions.php(21): WP_Query->set()
+#1 /app/public/wp-includes/class-wp-hook.php(286): university_adjust_queries(Object(WP_Query))
+#2 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /app/public/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#4 /app/public/wp-includes/class-wp-query.php(1736): do_action_ref_array('pre_get_posts', Array)
+#5 /app/public/wp-includes/class-wp-query.php(3387): WP_Query->get_posts()
+#6 /app/public/wp-includes/class-wp.php(622): WP_Query->query(Array)
+#7 /app/public/wp-includes/class-wp.php(739): WP->query_posts()
+#8 /app/public/wp-includes/functions.php(1105): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/pub in /app/public/wp-includes/class-wp-query.php on line 1706
+[23-Jun-2019 16:42:51 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 22
+[23-Jun-2019 16:43:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 23
+[23-Jun-2019 16:43:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 24
+[23-Jun-2019 16:46:44 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 25
+[23-Jun-2019 18:17:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/single-event.php on line 34
+[23-Jun-2019 18:19:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional-university-theme/single-event.php on line 36
