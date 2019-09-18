@@ -48,9 +48,10 @@ gulp.task('watch', function(done) {
 gulp.task('waitForStyles', gulp.series('styles', function() {
   return gulp.src(settings.themeLocation + 'style.css')
     .pipe(browserSync.stream());
-}))
+}));
 
-gulp.task('waitForScripts', gulp.series('scripts', function(cb) {
+gulp.task('waitForScripts', gulp.series('scripts', function UpdateScripts(done) {
   browserSync.reload();
-  cb()
-}))
+ done();
+})
+);
