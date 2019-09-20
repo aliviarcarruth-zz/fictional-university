@@ -41,7 +41,8 @@ register_post_type('program', array(
 
 // Professor Post Type
 register_post_type('professor', array(
-    'supports' => array(
+    'show_in_rest' => true,
+	'supports' => array(
         'title', 'editor', 'thumbnail'),
     'public' => true,
     'labels' => array(
