@@ -2,12 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="169ed2ec-639a-46bf-ab90-09fbae624a67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/public/wp-content/mu-plugins/university-post-types.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/mu-plugins/university-post-types.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/inc/search-route.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/inc/search-route.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/modules/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/modules/search.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/scripts-bundled.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/scripts-bundled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/single-program.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/single-program.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_options-schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_options-schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_options.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_options.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_postmeta-schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_postmeta-schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_postmeta.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_postmeta.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_posts-schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_posts-schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_posts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_posts.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_usermeta-schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_usermeta-schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_usermeta.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_usermeta.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_users-schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_users-schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/local.wp_users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/local.wp_users.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sql/metadata" beforeDir="false" afterPath="$PROJECT_DIR$/app/sql/metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mysql/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/mysql/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/nginx/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/nginx/access.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/php/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/php/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stdout---supervisor-BjbZP3.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/supervisor/MailHog-stdout---supervisor-BjbZP3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/php/php-fpm.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/php/php-fpm.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stderr---supervisor-NJL39X.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/MailHog-stdout---supervisor-BjbZP3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/mysql-stderr---supervisor-w2dRYC.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/mysql-stdout---supervisor-bNinNQ.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/nginx-stderr---supervisor-yN1q67.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/nginx-stdout---supervisor-KBt_Vk.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/php-fpm-stderr---supervisor-VOGjhk.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/php-fpm-stdout---supervisor-ca4JQU.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/supervisord.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/supervisor/supervisord.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-plugins-watcher-stdout---supervisor-z_8bKH.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnish-themes-watcher-stdout---supervisor-T7jm4z.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnishd-stderr---supervisor-_cBerd.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/supervisor/varnishd-stdout---supervisor-RqN91k.log" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,46 +53,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/inc/search-route.php">
+        <entry file="file://$PROJECT_DIR$/app/public/wp-content/mu-plugins/university-post-types.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="96" column="38" lean-forward="true" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/modules/search.js">
+        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="99" column="91" selection-start-line="99" selection-start-column="91" selection-end-line="99" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/template-parts/content-event.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="16" column="14" selection-end-line="16" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/single-program.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="49" column="15" selection-start-line="44" selection-start-column="10" selection-end-line="49" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+            <state relative-caret-position="382">
+              <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -79,11 +82,13 @@
         <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/front-page.php" />
         <option value="$PROJECT_DIR$/app/public/gulpfile.js" />
         <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/scripts.js" />
+        <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/single-program.php" />
+        <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/inc/search-route.php" />
+        <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/modules/search.js" />
         <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/footer.php" />
         <option value="$PROJECT_DIR$/app/public/wp-content/mu-plugins/university-post-types.php" />
+        <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/header.php" />
         <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/functions.php" />
-        <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/modules/search.js" />
-        <option value="$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/inc/search-route.php" />
       </list>
     </option>
   </component>
@@ -131,44 +136,6 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="mu-plugins" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fictional-university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fictional-university" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fictional-university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fictional-university" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="fictional-university-theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fictional-university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fictional-university" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="fictional-university-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fictional-university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fictional-university" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="fictional-university-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -179,7 +146,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/LaragonSites/aliviarcarruth.github.io" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -219,11 +186,12 @@
       <updated>1568669472206</updated>
       <workItem from="1568669473534" duration="36817000" />
       <workItem from="1569000053812" duration="5876000" />
+      <workItem from="1569249803967" duration="8068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42693000" />
+    <option name="totallyTimeSpent" value="50761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="869" extended-state="0" />
@@ -301,13 +269,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/public/wp-includes/rest-api.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -315,45 +276,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/public/wp-content/mu-plugins/university-post-types.php">
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/single-program.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="49" column="15" selection-start-line="44" selection-start-column="10" selection-end-line="49" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/template-parts/content-event.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="16" column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="187">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/js/modules/search.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="99" column="91" selection-start-line="99" selection-start-column="91" selection-end-line="99" selection-end-column="91" />
+        <state relative-caret-position="1547">
+          <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/inc/search-route.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="121" column="89" selection-start-line="121" selection-start-column="89" selection-end-line="121" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/template-parts/content-event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/single-program.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
-          <caret line="96" column="38" lean-forward="true" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
+          <caret line="127" column="29" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/themes/fictional-university-theme/css/modules/login.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/wp-content/mu-plugins/university-post-types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
